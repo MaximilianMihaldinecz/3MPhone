@@ -1,0 +1,9 @@
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\bin\Debug\3MPhone.exe.config
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\bin\Debug\3MPhone.exe
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\bin\Debug\3MPhone.pdb
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\3MPhone.csprojResolveAssemblyReference.cache
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\_3MPhone.Form1.resources
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\_3MPhone.Properties.Resources.resources
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\3MPhone.csproj.GenerateResource.Cache
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\3MPhone.exe
+c:\users\maximilián\documents\visual studio 2012\Projects\3MPhone\3MPhone\obj\Debug\3MPhone.pdb
